@@ -77,9 +77,5 @@ It demonstrates an end-to-end analytics workflow—from raw data cleaning and mo
 * DAX
 * Pivot Tables & Pivot Charts
 
+<img width="1868" height="675" alt="image" src="https://github.com/user-attachments/assets/07c7de82-abc8-46f2-8ccb-3210f431d767" />
 
-If you want next, I can:
-
-* Add a **Screenshots section**
-* Convert this into **resume bullets**
-* Create a **case-study style project description**
